@@ -29,8 +29,7 @@ I enjoy building responsive and interactive web applications using modern web te
 ---
 
 ## 📸 Preview
-(Add screenshot here if you want)
-Example:
+
 ![Portfolio Screenshot](images/screenshot.png)
 
 ---
