@@ -1,7 +1,7 @@
 # 🌐 Personal Portfolio
 
 ## 👋 About Me
-Hello! I am **Rini Rai**, a passionate web developer currently pursuing my studies at **[Your College Name]**.  
+Hello! I am **Rini Rai**, a passionate web developer currently pursuing my studies at KIET Group of Institutions.  
 I enjoy building responsive and interactive web applications using modern web technologies.
 
 ---
